@@ -1,4 +1,4 @@
-var api = 'http://127.0.0.1:24524';
+var api = 'https://api.turtlenode.net';//place filler for now 'http://127.0.0.1:24524';
 var donationAddress = "";
 var blockTargetInterval = 180; // enter the block interval in seconds
 var coinUnits = 1000;  // enter in the amount of atomic units in 1 coin, eg. 100 shells = 1 trtl
