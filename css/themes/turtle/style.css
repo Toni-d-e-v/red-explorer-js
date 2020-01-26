@@ -104,8 +104,8 @@ table td {
 }
 
 .form-control {
-    background-color: #474747;
-    color: #fff;
+    background: rgb(30,169,160);
+    background: linear-gradient(90deg, rgba(30,169,160,1) 0%, rgba(12,89,115,1) 47%, rgba(129,223,106,1) 100%);
 }
 
 .navbar .theme-switch {
