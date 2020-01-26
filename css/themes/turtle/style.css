@@ -127,9 +127,7 @@ table {
 }
 
 thead {
-    background: rgb(30,169,160);
-    background: linear-gradient(90deg, rgba(30,169,160,1) 0%, rgba(12,89,115,1) 47%, rgba(129,223,106,1) 100%);
-}
+    background-color: #FA8072;
 
 #network-hash > thead > tr > th {
     cursor: pointer;
