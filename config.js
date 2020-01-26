@@ -9,7 +9,7 @@ var refreshDelay = 3000;
 // pools stats by MainCoins
 var networkStat = {
  "trtl": [
-	
+	[""]
  ]
 };
 
