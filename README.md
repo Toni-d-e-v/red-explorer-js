@@ -1,11 +1,11 @@
-# Avrio-Blockchain-Explorer
-Block explorer for Avrio CryptoNote based cryptocurrency.
+# Red-Blockchain-Explorer
+Block explorer for redstone.
 
 #### Installation
 
-1) It takes data from daemon avriod. It should be accessible from the Internet. Run avriod with open port as follows:
+1) It takes data from daemon redstone-node. It should be accessible from the Internet. Run redstone-node with open port as follows:
 ```bash
-./avriod --enable-cors="*" --enable-blockexplorer --rpc-bind-ip=0.0.0.0 --rpc-bind-port=24524
+./redstone-node --enable-cors="*" --enable-blockexplorer --rpc-bind-ip=0.0.0.0 --rpc-bind-port=9999
 ```
 2) Just upload to your website and change 'api' variable in config.js to point to your daemon.
 
@@ -13,7 +13,7 @@ Block explorer for Avrio CryptoNote based cryptocurrency.
 ### Development
 Devs:
     @devopsralf
-Adapted to avrio:
+Adapted to redstone:
     @leocornelius
 
 Donate: 
