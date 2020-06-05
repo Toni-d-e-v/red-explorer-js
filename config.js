@@ -1,9 +1,9 @@
-var api = 'http://127.0.0.1:24524';
-var donationAddress = "";
+var api = 'http://127.0.0.1:9999';
+var donationAddress = "RvXuUzcSb751xntZYE1bFrTbzmQfmhXHNPu1tbqom7c8SKtLL9rBZd8cfTLFTMBgcNga5mgAhrGMX2JAMAgDXCxY1nzidQeHT";
 var blockTargetInterval = 180; // enter the block interval in seconds
-var coinUnits = 1000;  // enter in the amount of atomic units in 1 coin, eg. 100 shells = 1 trtl
+var coinUnits = 1000000;  // enter in the amount of atomic units in 1 coin, eg. 100 shells = 1 trtl
 var totalSupply =  100000000000000000000000000000000000000; // enter the total supply in atomic units
-var symbol = 'AIO'; // enter the coin's ticker
+var symbol = 'RS'; // enter the coin's ticker
 var refreshDelay = 3000;
 
 // pools stats by MainCoins
